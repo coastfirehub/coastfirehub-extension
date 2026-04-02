@@ -2,13 +2,13 @@
 
 # Coast FIRE Hub - Chrome Extension
 
-**A free, open-source browser extension that puts your Coast FIRE calculator one click away.**
+**A free, source-available browser extension that puts your Coast FIRE calculator one click away.**
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-green?logo=googlechrome&logoColor=white)](https://coastfirehub.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC%20BY--ND%204.0-lightgrey.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-coastfirehub.com-orange)](https://coastfirehub.com)
 
-[🌐 Visit CoastFIRE Hub](https://coastfirehub.com) · [📊 Full Calculator](https://coastfirehub.com) · [🐛 Report Bug](../../issues) · [✨ Request Feature](../../issues)
+[🌐 Visit CoastFIRE Hub](https://coastfirehub.com) · [📊 Full Calculator](https://coastfirehub.com) · [🐛 Report Bug](../../issues)
 
 </div>
 
@@ -101,21 +101,15 @@ coastfirehub-extension/
 
 ## Contributing
 
-Contributions are welcome! This is an open-source project aimed at helping everyone on their FIRE journey.
+This project is **source-available** but **not open for modifications**. You are welcome to:
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+- ⭐ Star this repository
+- 📥 Download and use the extension for personal, non-commercial purposes
+- 🐛 Report bugs via [Issues](../../issues)
+- 💡 Suggest features via [Issues](../../issues)
 
-### Ideas for Contributions
-
-- 🌐 Additional language support (i18n)
-- 📊 Charts and visual analytics
-- 📱 Progress tracking over time
-- 🎨 Theme customization (dark mode, etc.)
-- 🔔 Milestone notifications
+**Modifying, forking, or redistributing altered versions of this code is not permitted.**
+See [LICENSE](LICENSE) for full terms.
 
 ## Roadmap
 
@@ -126,7 +120,14 @@ Contributions are welcome! This is an open-source project aimed at helping every
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under **CC BY-ND 4.0** (Creative Commons Attribution-NoDerivatives 4.0).
+
+- You **can** download, view, and use this code for personal reference
+- You **must** give credit to CoastFIRE Hub if you reference this work
+- You **cannot** modify, fork, or redistribute altered versions
+- Commercial use is **not permitted** without written consent
+
+See [LICENSE](LICENSE) for full details.
 
 ## Links
 
