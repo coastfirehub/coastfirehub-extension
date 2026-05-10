@@ -15,7 +15,7 @@
 // ─── 常量 ───────────────────────────────────────────────────────────────────
 
 const DEFAULTS = {
-  currentAge:       32,
+  currentAge:       35,
   retirementAge:    65,
   annualSpending:   60000,
   currentAssets:    185000,
